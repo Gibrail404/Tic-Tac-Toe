@@ -27,6 +27,9 @@ To run the Tic Tac Toe Game locally, follow these steps:
    ```bash
    git clone https://github.com/Gibrail404/Tic-Tac-Toe.git
 
+## Demo
+You can view a live demo of the Tic Tac Toe Game [here](https://gibrail404.github.io/Tic-Tac-Toe/).
+
 ## License
 
 This Tic-tac-toe Project is licensed under the MIT License.
